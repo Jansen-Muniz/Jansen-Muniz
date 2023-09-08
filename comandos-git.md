@@ -35,7 +35,7 @@ _Listagem de branches_
 **git checkout <branch>**
 _Altera o branch_
 
-# Publicação e atualização
+## Publicação e atualização
 
 **git pull**
 _Recebe atualizações do repositório remoto_
